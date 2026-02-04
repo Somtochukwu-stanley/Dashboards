@@ -1,6 +1,6 @@
 # 📊 Dashboards Portfolio – Stanley Somto
 
-Welcome to my data analytics dashboards repository. Here I showcase Power BI dashboards alongside detailed Medium case studies explaining insights, trends, and business implications.
+Welcome to my data analytics dashboards repository. Here I showcase Power BI and Excel dashboards alongside detailed Medium case studies explaining insights, trends, and business implications.
 
 ---
 
