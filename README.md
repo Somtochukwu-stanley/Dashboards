@@ -40,4 +40,4 @@ Welcome to my data analytics dashboards repository. Here I showcase Power BI and
 ---
 ## 🔗 Connect With Me
 ## https://www.linkedin.com/in/somtochukwustanley/
-## [Medium: https://medium.com/@yourusername](https://medium.com/@somtostanley4030)
+## (https://medium.com/@somtostanley4030)
